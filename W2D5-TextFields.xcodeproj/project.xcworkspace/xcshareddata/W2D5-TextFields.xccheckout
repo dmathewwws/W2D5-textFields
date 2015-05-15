@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FDAE8B9A-65B5-4454-8104-65A730BAA34C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>W2D5-TextFields</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9878766321168E057A3B17231D7B7C893A0B63B6</key>
+		<string>https://github.com/dmathewwws/W2D5-textFields.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>W2D5-TextFields.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9878766321168E057A3B17231D7B7C893A0B63B6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dmathewwws/W2D5-textFields.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9878766321168E057A3B17231D7B7C893A0B63B6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9878766321168E057A3B17231D7B7C893A0B63B6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>W2D5-TextFields</string>
+		</dict>
+	</array>
+</dict>
+</plist>
